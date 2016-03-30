@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_loginpage">loginpage</string>
+    <string name="title_activity_welcome_layout">welcome_layout</string>
+    <string name="emptyString" />
+</resources>
